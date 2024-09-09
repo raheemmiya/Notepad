@@ -1,4 +1,4 @@
- Notepad Clone using Java
+ Notepad Clone using Java <br>
  This code clones the windows 10 notepad which was built using java swing and awt. It supports basic writing, deleting, scrollling, opening a new file, creating a new file, or opening an existing file
 
  Features: 
